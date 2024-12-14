@@ -189,7 +189,7 @@ animation: slideIn 1s ease-out forwards;
   
  .btn-2{
      border: 3px solid #fbbb2c;
-     width: 60vh;
+     width: 40vh !important;
      margin-left: 1vw;
      height: 10vh;
      border-radius: 5px;

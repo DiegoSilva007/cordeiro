@@ -51,6 +51,7 @@ width: 100%;
 }
 #container-serviços{
     display: block;
+    width: 115vw !important;
 }
 .text-serviços{
   margin-top: 2vh;
@@ -201,7 +202,7 @@ font-weight: bold;
 }
 .second-banner-container{
   background-color: #fbbb2c;
-  width: 100%; 
+  width: 115vw !important; 
   height: auto;
   justify-content: center; 
   align-items: center;
