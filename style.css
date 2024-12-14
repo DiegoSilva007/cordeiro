@@ -357,3 +357,24 @@ margin-top: 5vh;
  .break-produtos{
   display: block !important;
 }
+.btn-2{
+  border: 3px solid #fbbb2c;
+  width: 40vh !important;
+  margin-left: 1vw !important;
+  height: 10vh;
+  border-radius: 5px;
+  font-weight: 500;
+  margin-bottom: 30vh;
+  margin-top: 5vh;
+  display: inline;
+   background: linear-gradient(90deg,  #fbbb2c 0%,  #fbbb2c 100%); /* Gradiente que começa amarelo e termina transparente */
+   background-size: 0% 100%; /* Inicialmente, o gradiente ocupa 0% da largura do elemento */
+   background-repeat: no-repeat;
+   transition: background-size 1s ease; /* Transição suave */
+   border-radius: 3px;
+   width: 50vh;
+ padding-right: 2vh;
+  font-size: 180%;
+  color: #ffffff;
+  cursor: pointer;
+}
