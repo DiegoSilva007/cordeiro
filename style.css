@@ -52,6 +52,13 @@ width: 100%;
 #container-serviços{
     display: block;
 }
+.text-serviços{
+  margin-top: 2vh;
+   width: auto !important;
+   padding-left: 2vw;
+   
+ 
+}
 .container-xxl_3{
 display: block !important;
 padding-left: 15px;
@@ -102,6 +109,7 @@ padding-left: 15px;
     margin-top: 5vh;
       
    }
+   
    .btn3{
     border: 2px solid #fbbb2c !important;
        width: auto !important;
