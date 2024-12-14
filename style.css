@@ -66,7 +66,7 @@ padding-left: 15px;
 }
 
    #image-banner img{
-    width: 210px;
+    width: 150px !important;
     margin-left: 5vw;
    margin-top: 5vw;
    overflow: hidden;
@@ -97,7 +97,8 @@ padding-left: 15px;
    .container-xxl4{
     justify-content: center;
     align-items: center;
-    height: 90vh;
+    height: auto !important;
+    padding-bottom: 10vh;
     display: block !important;
    
     }
@@ -163,6 +164,9 @@ padding-left: 15px;
 .fa-instagram:hover{
   color: #fbbb2c;
   transition: 0.3s;
+}
+footer{
+  width: 115vw;
 }
 #text-produtos{
   width: auto !important;

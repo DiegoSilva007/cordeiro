@@ -19,6 +19,7 @@
    opacity: 0;
    animation: slideIn 1s ease-out forwards;
      width: 50%; 
+     
     }
     .title-energia{
      font-weight: bolder;
@@ -28,7 +29,6 @@
     #image-banner img{
      width: 45%;
      margin-left: 15vw;
-   
      overflow: hidden;
    display: inline-block;
    transform: translateY(100%);
